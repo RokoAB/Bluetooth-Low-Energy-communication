@@ -10,4 +10,4 @@ The code is written in Python (for laptop executed code) and in ArduinoIDE.
 
 The BLE sniffing logs are collected with Wireshark and Packet logger.
 
-Also used in parts of this project was the Nordic nrf52840 BLE sniffer dongle
+Also used in parts of this project was the Nordic nrf52840 BLE sniffer dongle.
