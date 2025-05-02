@@ -1,4 +1,4 @@
-# BLE usecases and reaserch project
+# BLE usecases and research project
 
 ## BLE communication tests 
 
